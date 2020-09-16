@@ -30,7 +30,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-original-wordmark.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/trello-original-wordmark.svg" alt="trello" width="40" height="40"/></p>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/></p>
 
 <p align="center">
   <a href="https://github.com/EliaTREIILHOU"></a>
