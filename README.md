@@ -4,9 +4,12 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/github/followers/EliaTREILHOU.svg?style=social&label=Follow&maxAge=2592000"><img src="https://img.shields.io/github/followers/EliaTREILHOU.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers" data-canonical-src="https://github.com/EliaTREILHOU?tab=followers" style="max-width:100%;"></a>
   
-📫 Si tu veux me contacter : **elia.treilhou@etu.unilim.fr**
+📫 Si tu veux me contacter par Mail : **elia.treilhou@etu.unilim.fr**
+📫 Mon Linkedin : **https://www.linkedin.com/in/elia-treilhou/**
 
-<h3 align="center"> Mes domaines en tant que débutante  ▼ </h3>
+J'ai réalisé la Formation Full Stack Web chez **TheHackingProject 🎓** **https://www.thehackingproject.org/?locale=fr** durant 12 semaines en intensif.
+
+<h3 align="center"> Mes Compétences (Débutante) ▼ </h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
