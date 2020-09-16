@@ -21,7 +21,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/magento/magento-original-wordmark.svg" alt="magento" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
