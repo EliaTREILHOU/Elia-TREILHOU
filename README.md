@@ -20,17 +20,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original-wordmark.svg" alt="atom" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original-wordmark.svg" alt="csharp" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original-wordmark.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/magento/magento-original-wordmark.svg" alt="magento" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/prestashop/prestashop-original-wordmark.svg" alt="prestashop" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original-wordmark.svg" alt="debian" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-original-wordmark.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/></p>
 
 <p align="center">
   <a href="https://github.com/EliaTREIILHOU"></a>
