@@ -7,7 +7,7 @@
 📫 Si tu veux me contacter par Mail : **elia.treilhou@etu.unilim.fr**
 📫 Mon Linkedin : **https://www.linkedin.com/in/elia-treilhou/**
 
-J'ai réalisé la Formation Full Stack Web chez **TheHackingProject 🎓** **https://www.thehackingproject.org/?locale=fr** durant 12 semaines en intensif.
+J'ai réalisé la Formation Full Stack Web chez **TheHackingProject 🎓** **https://www.thehackingproject.org/** durant 12 semaines en intensif.
 
 <h3 align="center"> Mes Compétences (Débutante) ▼ </h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
