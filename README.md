@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour à toi, moi c'est Elia TREILHOU 👋 </h1>
 
-<h2 align="center">Je suis développeuse Full Stack</h2>
+<h2 align="center">Je suis dévellopeur Full Stack</h2>
 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/github/followers/EliaTREILHOU.svg?style=social&label=Follow&maxAge=2592000"><img src="https://img.shields.io/github/followers/EliaTREILHOU.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers" data-canonical-src="https://github.com/EliaTREILHOU?tab=followers" style="max-width:100%;"></a>
   
